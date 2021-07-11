@@ -1,5 +1,5 @@
-### Hi, my name is Evgeniy
-I do game art, UI and other game related stuff 10+ years already. So I am mostly artist but interested in math also. So I try to mix all my experiences with coding now.
+### Hi, there 😺
+I am Evgeniy and I do game art, UI and other game related stuff 10+ years already. So I am mostly artist but interested in math also. So I try to mix all my experiences with coding now.
 
 
 <!--
