@@ -1,6 +1,6 @@
 ### Hi, there 😺
-I try to mix all my experiences with coding now. Currently, I work as a UX Manager.
-
+- Currently I work as a UX Manager in a transportation related company. Also I have an experience in print design, package design, game art, etc.
+- Interested in Math, Data Analytics, AI/ML (game agents, chats).
 
 <!--
 **ognarev/ognarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
