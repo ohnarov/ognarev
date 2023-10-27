@@ -1,5 +1,4 @@
 ### Hi, there 😺
-- Currently I work as a UX Manager in a transportation related company. Also I have an experience in print design, package design, game art, etc.
 - Interested in Math, Data Analytics, AI/ML (game agents, chats).
 
 <!--
